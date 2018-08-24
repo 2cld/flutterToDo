@@ -10,6 +10,7 @@ Various help various tool chain setups.
 
    help-quickstart-flutterToDo
    help-build-docs
+   help-screen-record
 
 
 Things

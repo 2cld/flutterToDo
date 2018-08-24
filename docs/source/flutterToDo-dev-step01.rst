@@ -111,5 +111,5 @@ Resources
 #. flutterToDo-checkpoint-01_
 #. flutterToDo-repo_
 
-.. _flutterToDo-checkpoint-01: https://github.com/2cld/flutterToDo
+.. _flutterToDo-checkpoint-01: https://github.com/2cld/flutterToDo/tree/flutterToDo-checkpoint-01
 .. _flutterToDo-repo: https://github.com/2cld/flutterToDo
