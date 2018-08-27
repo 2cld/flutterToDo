@@ -73,6 +73,16 @@ Resources
 #. Verify checkpoint flutterToDo-checkpoint-02_
 #. Dart Conference 2018 dart-Conference2018_
 #. Live code GeoCode dart-Conference2018-liveCode_
+#. Live code repo dart-Conference2018-liveCode-repo_
+#. WhatUpClone dart-whatsapp-clone-article_
+#. WhatsUpClone youtube dart-whatsapp-clone-youtube_
+#. WhatsUpClone repo dart-whatsapp-clone-repo_
+#. WhatsUpClone camera dart-whatsapp-clone-camera_
+#. ImagePicker dart-imagePicker-package_
+#. flutter_image_
+#. dart-async-loader_
+#. flutter_router_
+#. flutter_serializer_
 #. This youTube App Demo on iOS - flutterToDo-test_todo-app_
 #. flutterToDo-youTubeRef-Part01_ - View Screenshot
 #. flutterToDo-youTubeRef-Part02_ - Create Structure
@@ -87,6 +97,16 @@ Resources
 .. _flutterToDo-checkpoint-02: https://github.com/2cld/flutterToDo/tree/flutterToDo-checkpoint-03
 .. _dart-Conference2018: https://www.youtube.com/playlist?list=PLOU2XLYxmsIIJr3vjxggY7yGcGO7i9BK5
 .. _dart-Conference2018-liveCode: https://www.youtube.com/watch?v=iflV0D0d1zQ
+.. _dart-Conference2018-liveCode-repo: https://github.com/mjohnsullivan/nomnom
+.. _dart-whatsapp-clone-article: https://medium.com/@Nash0x7E2/building-whatsapp-ui-with-flutter-io-and-dart-1bb1e83e7439
+.. _dart-whatsapp-clone-youtube: https://www.youtube.com/watch?v=2Tyrofn6zPg&feature=youtu.be
+.. _dart-whatsapp-clone-repo: https://github.com/iampawan/FlutterWhatsAppClone
+.. _dart-whatsapp-clone-camera: https://www.youtube.com/watch?v=ZkpHzbOm-s0
+.. _dart-imagePicker-package: https://www.youtube.com/watch?v=kNe4Fw3zkKY
+.. _flutter_image: https://pub.dartlang.org/packages/flutter_image
+.. _dart-async-loader: https://pub.dartlang.org/packages/async_loader
+.. _flutter_router: https://pub.dartlang.org/packages/fluro
+.. _flutter_serializer: https://github.com/Jaguar-dart/jaguar_serializer
 .. _flutterToDo-test_todo-app: https://youtu.be/SNaED5hY6XY
 .. _flutterToDo-youTubeRef-Part01: https://www.youtube.com/watch?v=1Tv1_K3WDuE
 .. _flutterToDo-youTubeRef-Part02: https://www.youtube.com/watch?v=tT-5cx3C99o
